@@ -1,0 +1,10 @@
+# running locally
+pip3 install -r requirements.txt 
+python3 covid_app.py
+
+# Create docker container
+docker build -t <YOUR_USERNAME>/<IMAGE_NAME> .
+docker run -p 8050:8050 <YOUR_USERNAME>/<IMAGE_NAME>
+
+# push to repository
+docker push <YOUR_USERNAME>/<IMAGE_NAME>  

@@ -1,0 +1,11 @@
+# Build the image, change <YOUR_USERNAME> with the username used in dockerhub, and <IMAGE_NAME> with a name you want your image to have. Don't forget the point at the end. Run the following command from the folder where the dockerfile is. 
+docker build -t <YOUR_USERNAME>/<IMAGE_NAME> .
+
+# Run your image. 
+docker run <YOUR_USERNAME>/<IMAGE_NAME>
+
+# login in case you haven't 
+docker login
+
+# optional, push your image
+docker push <YOUR_USERNAME>/<IMAGE_NAME>
