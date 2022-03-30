@@ -37,16 +37,16 @@ For yolo, we will use a VM in the cloud, colab more specifically. The jupyter no
 1. DeepLearning.AI. Deep Learning Specialization with Andrew Ng. [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning). Accessed: 29/03/2022
 
 ### YOLO
-1. Aleksey Bochkovskiy. Yolo v4, v3 and v2 for Windows and Linux. [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-2. Aleksey Bochkovskiy. YOLOv4 — the most accurate real-time neural network on MS COCO dataset. [https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe](https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe)
-3. Joseph Redmon. Darknet: Open Source Neural Networks in C. [https://pjreddie.com/darknet/](https://pjreddie.com/darknet/)
+1. Aleksey Bochkovskiy. Yolo v4, v3 and v2 for Windows and Linux. [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet). Accessed: 29/03/2022
+2. Aleksey Bochkovskiy. YOLOv4 — the most accurate real-time neural network on MS COCO dataset. [https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe](https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe). Accessed: 29/03/2022
+3. Joseph Redmon. Darknet: Open Source Neural Networks in C. [https://pjreddie.com/darknet/](https://pjreddie.com/darknet/). Accessed: 29/03/2022
 
 ### Containerized ML
-1. Xavier Vasques. Build and Run a Docker Container for your Machine Learning Model. [https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f](https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f)
-2. Analytics Vidhya. Containerized Your Machine Learning WorkFlow With Docker : A Hands-on Guide. [https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/](https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/)
+1. Xavier Vasques. Build and Run a Docker Container for your Machine Learning Model. [https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f](https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f). Accessed: 29/03/2022
+2. Analytics Vidhya. Containerized Your Machine Learning WorkFlow With Docker : A Hands-on Guide. [https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/](https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/). Accessed: 29/03/2022
 
 ### Time Series Analysis and Forecasting
-1. Marco Peixeiro. The Complete Guide to Time Series Analysis and Forecasting [https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775).
-2. Unai López Ansoleaga. Time Series Forecasting with Supervised Machine Learning. [https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba](https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba).
-3. Harsh Jain. TIME SERIES | ARIMA | SARIMA MODELS USING PYTHON. [https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook](https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook). 
-4. Jake VanderPlas. Python Data Science Handbook. Working with Time Series. [https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html). 
+1. Marco Peixeiro. The Complete Guide to Time Series Analysis and Forecasting [https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775). Accessed: 29/03/2022
+2. Unai López Ansoleaga. Time Series Forecasting with Supervised Machine Learning. [https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba](https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba). Accessed: 29/03/2022
+3. Harsh Jain. TIME SERIES | ARIMA | SARIMA MODELS USING PYTHON. [https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook](https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook). Accessed: 29/03/2022
+4. Jake VanderPlas. Python Data Science Handbook. Working with Time Series. [https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html). Accessed: 29/03/2022
