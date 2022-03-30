@@ -22,7 +22,7 @@ For yolo, we will use a VM in the cloud, colab more specifically. The jupyter no
 2. AWS Public Sector. Cloud 101: An Introduction to Cloud Computing | AWS Public Sector. [https://youtu.be/GneIpdOirZY](https://youtu.be/GneIpdOirZY). Accessed: 01/03/2022.
 3. TechWorld with Nana. Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]. [https://youtu.be/X48VuDVv0do](https://youtu.be/X48VuDVv0do). Accessed: 01/03/2022.
 
-### Containarized Applications
+### Containerized Applications
 1. Docker. Docker Getting Started Tutorial. [https://github.com/docker/getting-started](https://github.com/docker/getting-started). Accessed: 01/03/2022. 
 2. Docker. Docker for beginners [https://github.com/docker/labs/blob/master/beginner/readme.md](https://github.com/docker/labs/blob/master/beginner/readme.md). Accessed: 01/03/2022. --> Homework!
 3. Mahbub Zaman. 12 Essential Docker Commands You Should Know. [https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5](https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5). Accessed: 01/03/2022.
