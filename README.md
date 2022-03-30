@@ -43,3 +43,10 @@ For yolo, we will use a VM in the cloud, colab more specifically. The jupyter no
 
 ### Containerized ML
 1. Xavier Vasques. Build and Run a Docker Container for your Machine Learning Model. [https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f](https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f)
+2. Analytics Vidhya. Containerized Your Machine Learning WorkFlow With Docker : A Hands-on Guide. [https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/](https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/)
+
+### Time Series Analysis and Forecasting
+1. Marco Peixeiro. The Complete Guide to Time Series Analysis and Forecasting [https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775).
+2. Unai López Ansoleaga. Time Series Forecasting with Supervised Machine Learning. [https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba](https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba).
+3. Harsh Jain. TIME SERIES | ARIMA | SARIMA MODELS USING PYTHON. [https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook](https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook). 
+4. Jake VanderPlas. Python Data Science Handbook. Working with Time Series. [https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html). 
