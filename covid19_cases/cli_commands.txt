@@ -4,7 +4,10 @@ python3 covid_app.py
 
 # Create docker container
 docker build -t <YOUR_USERNAME>/<IMAGE_NAME> .
+## without volume mount
 docker run -p 8050:8050 <YOUR_USERNAME>/<IMAGE_NAME>
+## with volume mount
+docker run --mount type=bind,src="$(pwd)/data",target=/app/data -p 8050:8050 <YOUR_USERNAME>/<IMAGE_NAME>:<VERSION>
 
 # push to repository
 docker push <YOUR_USERNAME>/<IMAGE_NAME>  

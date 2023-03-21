@@ -121,11 +121,13 @@ def top_countries(cases_data, vaccination_data):
 
 
 #  official WHO data
-cases_who_url = 'https://covid19.who.int/WHO-COVID-19-global-data.csv'
-vaccination_who_url = 'https://covid19.who.int/who-data/vaccination-data.csv'
+# cases_who_path = 'https://covid19.who.int/WHO-COVID-19-global-data.csv'
+cases_who_path = './data/WHO-COVID-19-global-data.csv'
+# vaccination_who_path = 'https://covid19.who.int/who-data/vaccination-data.csv'
+vaccination_who_path = './data/vaccination-data.csv'
 
-cases = get_data(cases_who_url)
-vaccination = get_data(vaccination_who_url)
+cases = get_data(cases_who_path)
+vaccination = get_data(vaccination_who_path)
 
 
 
@@ -175,7 +177,7 @@ app.layout = html.Div(
 )
 def update_plots(country):
     # Function for creating figures showing per country daily and cumulated cases over time
-    data = get_data(cases_who_url)
+    data = get_data(cases_who_path)
     daily_fig = plot_cases(data=data, country=country)
     cum_fig = plot_cum_cases(data=data, country=country)
     return daily_fig, cum_fig
