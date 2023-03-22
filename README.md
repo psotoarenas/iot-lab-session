@@ -20,35 +20,36 @@ For yolo, we will use a VM in the cloud, colab more specifically. The jupyter no
 ### Cloud Computing
 1. Google. Google Cloud Topics: Learn the basics of cloud computing and how to get started. [https://cloud.google.com/learn 
 ](https://cloud.google.com/learn 
-). Accessed: 01/03/2022.
-2. AWS Public Sector. Cloud 101: An Introduction to Cloud Computing | AWS Public Sector. [https://youtu.be/GneIpdOirZY](https://youtu.be/GneIpdOirZY). Accessed: 01/03/2022.
-3. TechWorld with Nana. Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]. [https://youtu.be/X48VuDVv0do](https://youtu.be/X48VuDVv0do). Accessed: 01/03/2022.
+). Accessed: 22/03/2023.
+2. AWS Public Sector. Cloud 101: An Introduction to Cloud Computing | AWS Public Sector. [https://youtu.be/GneIpdOirZY](https://youtu.be/GneIpdOirZY). Accessed: 22/03/2023.
+3. TechWorld with Nana. Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]. [https://youtu.be/X48VuDVv0do](https://youtu.be/X48VuDVv0do). Accessed: 22/03/2023.
 
 ### Containerized Applications
-1. Docker. Docker Getting Started Tutorial. [https://github.com/docker/getting-started](https://github.com/docker/getting-started). Accessed: 01/03/2022. 
-2. Docker. Docker for beginners [https://github.com/docker/labs/blob/master/beginner/readme.md](https://github.com/docker/labs/blob/master/beginner/readme.md). Accessed: 01/03/2022. --> Homework!
-3. Mahbub Zaman. 12 Essential Docker Commands You Should Know. [https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5](https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5). Accessed: 01/03/2022.
+1. Docker. Docker Getting Started Tutorial. [https://github.com/docker/getting-started](https://github.com/docker/getting-started). Accessed: 22/03/2023. 
+2. Docker. Docker for beginners [https://github.com/docker/labs/blob/master/beginner/readme.md](https://github.com/docker/labs/blob/master/beginner/readme.md). Accessed: 22/03/2023.
+3. Mahbub Zaman. 12 Essential Docker Commands You Should Know. [https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5](https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5). Accessed: 22/03/2023.
 
 ### Python Dashboard
-1. Meinhard Ploner. Visualise COVID-19 case data using Python, Dash, and Plotly. [https://towardsdatascience.com/visualise-covid-19-case-data-using-python-dash-and-plotly-e58feb34f70f](https://towardsdatascience.com/visualise-covid-19-case-data-using-python-dash-and-plotly-e58feb34f70f). Accessed: 01/03/2022.
-2. Bee Guan Teo. Building A Real-time Dashboard Using Python Plotly Library And Web Service. [https://towardsdatascience.com/building-a-real-time-dashboard-using-python-plotly-library-and-web-service-145f50d204f0](https://towardsdatascience.com/building-a-real-time-dashboard-using-python-plotly-library-and-web-service-145f50d204f0). Accessed: 01/03/2022.
-3. Anmol Tomar. Dash for Beginners : Python Dashboards. [https://towardsdatascience.com/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4](https://towardsdatascience.com/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4). Accessed: 01/03/2022.
-4. World Health Organization. WHO Coronavirus (COVID-19) Dashboard. [https://covid19.who.int/](https://covid19.who.int/). Accessed: 01/03/2022.
+1. Meinhard Ploner. Visualise COVID-19 case data using Python, Dash, and Plotly. [https://towardsdatascience.com/visualise-covid-19-case-data-using-python-dash-and-plotly-e58feb34f70f](https://towardsdatascience.com/visualise-covid-19-case-data-using-python-dash-and-plotly-e58feb34f70f). Accessed: 22/03/2023.
+2. Bee Guan Teo. Building A Real-time Dashboard Using Python Plotly Library And Web Service. [https://towardsdatascience.com/building-a-real-time-dashboard-using-python-plotly-library-and-web-service-145f50d204f0](https://towardsdatascience.com/building-a-real-time-dashboard-using-python-plotly-library-and-web-service-145f50d204f0). Accessed: 22/03/2023.
+3. Anmol Tomar. Dash for Beginners : Python Dashboards. [https://towardsdatascience.com/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4](https://towardsdatascience.com/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4). Accessed: 22/03/2023.
+4. World Health Organization. WHO Coronavirus (COVID-19) Dashboard. [https://covid19.who.int/](https://covid19.who.int/). Accessed: 22/03/2023.
 
 ### Machine Learning
-1. DeepLearning.AI. Deep Learning Specialization with Andrew Ng. [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning). Accessed: 29/03/2022
+1. DeepLearning.AI. Deep Learning Specialization with Andrew Ng. [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning). Accessed: 22/03/2023.
 
 ### YOLO
-1. Aleksey Bochkovskiy. Yolo v4, v3 and v2 for Windows and Linux. [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet). Accessed: 29/03/2022
-2. Aleksey Bochkovskiy. YOLOv4 — the most accurate real-time neural network on MS COCO dataset. [https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe](https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe). Accessed: 29/03/2022
-3. Joseph Redmon. Darknet: Open Source Neural Networks in C. [https://pjreddie.com/darknet/](https://pjreddie.com/darknet/). Accessed: 29/03/2022
+1. Aleksey Bochkovskiy. Yolo v4, v3 and v2 for Windows and Linux. [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet). Accessed: 22/03/2023.
+2. Aleksey Bochkovskiy. YOLOv4 — the most accurate real-time neural network on MS COCO dataset. [https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe](https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe). Accessed: 22/03/2023.
+3. Aleksey Bochkovskiy. YOLOv4_Tutorial.ipynb [https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE](https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE). Accessed: 22/03/2023. 
+4. Joseph Redmon. Darknet: Open Source Neural Networks in C. [https://pjreddie.com/darknet/](https://pjreddie.com/darknet/). Accessed: 22/03/2023.
 
 ### Containerized ML
-1. Xavier Vasques. Build and Run a Docker Container for your Machine Learning Model. [https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f](https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f). Accessed: 29/03/2022
-2. Analytics Vidhya. Containerized Your Machine Learning WorkFlow With Docker : A Hands-on Guide. [https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/](https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/). Accessed: 29/03/2022
+1. Xavier Vasques. Build and Run a Docker Container for your Machine Learning Model. [https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f](https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f). Accessed: 22/03/2023.
+2. Analytics Vidhya. Containerized Your Machine Learning WorkFlow With Docker : A Hands-on Guide. [https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/](https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/). Accessed: 22/03/2023.
 
 ### Time Series Analysis and Forecasting
-1. Marco Peixeiro. The Complete Guide to Time Series Analysis and Forecasting [https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775). Accessed: 29/03/2022
-2. Unai López Ansoleaga. Time Series Forecasting with Supervised Machine Learning. [https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba](https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba). Accessed: 29/03/2022
-3. Harsh Jain. TIME SERIES | ARIMA | SARIMA MODELS USING PYTHON. [https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook](https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook). Accessed: 29/03/2022
-4. Jake VanderPlas. Python Data Science Handbook. Working with Time Series. [https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html). Accessed: 29/03/2022
+1. Marco Peixeiro. The Complete Guide to Time Series Analysis and Forecasting [https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775). Accessed: 22/03/2023.
+2. Unai López Ansoleaga. Time Series Forecasting with Supervised Machine Learning. [https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba](https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba). Accessed: 22/03/2023.
+3. Harsh Jain. TIME SERIES | ARIMA | SARIMA MODELS USING PYTHON. [https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook](https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook). Accessed: 22/03/2023. 
+4. Jake VanderPlas. Python Data Science Handbook. Working with Time Series. [https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html). Accessed: 222/03/2023.
