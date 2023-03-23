@@ -53,3 +53,6 @@ For yolo, we will use a VM in the cloud, colab more specifically. The jupyter no
 2. Unai López Ansoleaga. Time Series Forecasting with Supervised Machine Learning. [https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba](https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba). Accessed: 22/03/2023.
 3. Harsh Jain. TIME SERIES | ARIMA | SARIMA MODELS USING PYTHON. [https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook](https://www.kaggle.com/code/harshjain123/time-series-arima-sarima/notebook). Accessed: 22/03/2023. 
 4. Jake VanderPlas. Python Data Science Handbook. Working with Time Series. [https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html). Accessed: 222/03/2023.
+
+### Datasets
+1. Kaggle. Bike Sharing Demand. [https://www.kaggle.com/competitions/bike-sharing-demand/overview](https://www.kaggle.com/competitions/bike-sharing-demand/overview). Accessed: 22/03/2023.
